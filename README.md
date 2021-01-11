@@ -1,1 +1,2 @@
 # Hotel-Reservation-Prediction
+In this notebook we will be analysing hotel bookings and reservation. We will focus on finding out using how customer information can help us determine whether a client will honor their booking or not. After the analysis we will create a simple ML model predicting the cahances of canceling or honoring a hotel booking. The data we will use is downloaded from kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand
